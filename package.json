@@ -1,0 +1,10 @@
+{
+  "name": "bamazon_db",
+  "version": "0.0.1",
+  "description": "like amazon.com",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "mysql": "^2.11.1",
+    "inquirer": "^1.0.3"
+  }
+}
